@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="JAVA LIB">
+    <CLASSES>
+      <root url="file://F:/JAVA LIB" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://F:/JAVA LIB/324132/Labirynth/src" />
+      <root url="file://F:/JAVA LIB" />
+    </SOURCES>
+    <jarDirectory url="file://F:/JAVA LIB" recursive="false" />
+    <jarDirectory url="file://F:/JAVA LIB" recursive="false" type="SOURCES" />
+  </library>
+</component>
